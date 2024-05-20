@@ -1,5 +1,5 @@
 1. Stand up digital ocean droplet (or whatever VPS your prefer. I think DO is the cheapest and the most hassle-free.
-2. SSH into itt
+2. SSH into it.
 3. Clone this repo.
 4. chmod +x ./dsock_install.sh to add executable permission
 5. run ./dsock_install.sh
