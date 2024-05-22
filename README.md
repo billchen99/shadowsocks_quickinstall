@@ -1,4 +1,6 @@
-1. Stand up digital ocean droplet (or whatever VPS your prefer. I think DO is the cheapest and the most hassle-free.
+Just a super quick and dirty bashscript to standup a shadowsocks server fast on a droplet. It install docker, pull the ss image and runs it with some default parameters. Useful when trying to standup multiple VPS in different locations in case one IP gets compromised. 
+
+1. Stand up DigitalOcean droplet (or whatever VPS your prefer. I think DO is the cheapest and the most hassle-free.
 2. SSH into it.
 3. Clone this repo.
 4. chmod +x ./dsock_install.sh to add executable permission
