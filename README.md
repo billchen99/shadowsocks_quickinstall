@@ -7,4 +7,4 @@ Just a super quick and dirty bashscript to standup a shadowsocks server fast on 
 5. run ./dsock_install.sh
 6. answer Yes when prompted
 7. Your shadowsocks server will be started on the IP of the droplet with helloworld as the default password and aes-256-gcm as the default encryption method. If you want anything else you can change the bashscript yourself.
-8. You can test if it works by adding the connection info (IP, pwd, encryption method) to your preferred Shadowsocks client, activate it, go on google and search up your own IP address and if it shows up as the your proxy IP then you know you've succeeded.
+8. You can test if it works by adding the connection info (IP, pwd, encryption method) to your preferred Shadowsocks client, activate it, go on google and search up your own IP address and if it shows up as the your proxy IP then you know you've succeeded. As for Shadowsocks clients I recommend [Shadowsocks-X-NG] (https://github.com/shadowsocks/ShadowsocksX-NG) for your laptop. Shadowlink, the client I used on my phone don't seem to be available for download anymore but I am sure you can find some other ones as well.
