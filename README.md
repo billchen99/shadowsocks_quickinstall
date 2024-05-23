@@ -1,4 +1,4 @@
-Just a super quick and dirty bashscript to standup a shadowsocks server fast on a droplet. It installs docker, pulls the ss image and runs it with some default parameters. Useful when trying to standup multiple VPS in different locations in case one IP gets compromised. 
+Just a super quick and dirty bashscript to standup a [shadowsocks](https://github.com/shadowsocks) server fast on a droplet. It installs docker, pulls the ss image and runs it with some default parameters. Useful when trying to standup multiple VPS in different locations in case one IP gets compromised. 
 
 1. Stand up DigitalOcean droplet (or whatever VPS your prefer. I think DO is the cheapest and the most hassle-free. Use the up to date ubunto
 2. SSH into it.
